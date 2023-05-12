@@ -4,5 +4,4 @@
 <br />
 
 ### _Data Indo Center - IPB SSRS Association_
-# dataindo-inagrove
-Indonesia Mangrove Monitoring System
+# INAGROVE: Indonesia Mangrove Monitoring System
