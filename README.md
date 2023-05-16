@@ -9,16 +9,15 @@ ss
 
 ________________________________________________________________________________________________________________________________________________________
 
-<p align="center">
+
  <br /> Production by
- <br /> DATA INDO CENTER - IPB SSRS ASSOCIATION 
+ <br /> **DATA INDO CENTER - IPB SSRS ASSOCIATION**
  <br /> CP: +62 813-9293-6228 (Fajar Raihan, Head of)
-  </p>
-<p align="center">
- This media is directly controlled by 
- <br /> The Directorate of Scientific Publication Media, Innovation and Strategic Information
+ <br /> 
+ 
+ This media is directly controlled by <img src="https://github.com/ipbssrs/ipbssrs/blob/e06c45804cf17ab573e55ff856c4c3b8bcf81b8e/logo-ssrs/Dir_Medpub.png" align="right" width="48%" />
+ <br /> **The Directorate of Scientific Publication Media, Innovation and Strategic Information**
  <br /> Deputy IV - Coordination of Publication Development 
  <br /> IPB Sustainable Science Research Students Association (IPB SSRS Association)
  <br /> IPB University
- <br /> Address: SSRS Agroinformatics Labs & SSRS Publishing Office, Building of Department of Soil Science and Land Resources, Faculty of Agriculture, IPB University, Dramaga 16680 West Java, Indonesia
- </p>
+ <br /> Address: SSRS Agroinformatics Labs & SSRS Publishing Office, Building of Department of Soil Science and Land Resources, Faculty of Agriculture, IPB University, Dramaga 16680 West Java, Indonesia 
