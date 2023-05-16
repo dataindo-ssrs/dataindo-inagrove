@@ -10,11 +10,12 @@ ss
 ________________________________________________________________________________________________________________________________________________________
 
 
- <br /> Production by
+ <br /> Production by <img src="https://github.com/dataindo-ssrs/.github/blob/94130856cca48a04559e95546de281fdf74d97f6/admin/Logo_DataIndo_Kanan.png" align="right" width="40%" />
  <br /> **DATA INDO CENTER - IPB SSRS ASSOCIATION**
- <br /> CP: +62 813-9293-6228 (Fajar Raihan, Head of)
+ <br /> CP: +62 813-9293-6228 (Fajar Raihan, _Head of_)
  <br /> 
- 
+ <br /> -
+ <br /> 
  This media is directly controlled by <img src="https://github.com/ipbssrs/ipbssrs/blob/e06c45804cf17ab573e55ff856c4c3b8bcf81b8e/logo-ssrs/Dir_Medpub.png" align="right" width="48%" />
  <br /> **The Directorate of Scientific Publication Media, Innovation and Strategic Information**
  <br /> Deputy IV - Coordination of Publication Development 
